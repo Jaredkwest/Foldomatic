@@ -6,7 +6,8 @@ Foldomatic is a project developed as a senior Design project at Mississippi Stat
 Instructions: 
 
 this repository contains two header files: 
-  FoldMotor
-  FeedMotor
-  
-one should install this intor the arduino libraries in order to get the code to work properly. 
+  FoldStepper, FeedStepper
+
+One should install this intor the arduino libraries in order to get the code to work properly. 
+
+FoldStepper and FeedStepper are designed using the template blinkWithoutDelay and allows the mega to generated stepper pulses without using delays.

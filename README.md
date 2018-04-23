@@ -6,7 +6,7 @@ Foldomatic is a project developed as a senior Design project at Mississippi Stat
 Instructions: 
 
 this repository contains two header files: 
-  FoldMotor
-  FeedMotor
+  FoldStepper
+  FeedStepper
   
 one should install this intor the arduino libraries in order to get the code to work properly. 
